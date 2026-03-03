@@ -1,0 +1,21 @@
+# Entorns virtuals
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Fitxers de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fitxers específics de l'editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fitxers de sistema
+.DS_Store
+Thumbs.db
