@@ -10,4 +10,5 @@
 
 ```python
 # Instal·lació directa des de GitHub
-!pip install git+https://github.com/el_teu_usuari/espy.git
+!pip install git+https://github.com/esteveoj-sudo/espy.git
+
