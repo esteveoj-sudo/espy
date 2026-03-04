@@ -1,6 +1,6 @@
 import numpy as np
 
-def metode_numeric(x0, xn, y0, h, f, metode="Euler"):
+def method(x0, xn, y0, h, f, metode="Euler"):
     """
     Resol una EDO amb mètode d'Euler o Heun
     
